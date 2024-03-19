@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ntapp\\YandexDisk\\Studing1\\Защита информации\\Лабораторная работа 3\\RSAAlg\\RSAAlg\\RSAAlg.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ntapp\\YandexDisk\\Studing1\\Защита информации\\Лабораторная работа 3\\RSAAlg\\RSAAlg\\RSAAlg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ntapp\\YandexDisk\\Studing1\\Защита информации\\Лабораторная работа 3\\RSAAlg\\RSAAlg\\RSAAlg.csproj",
+        "projectName": "RSAAlg",
+        "projectPath": "C:\\Users\\ntapp\\YandexDisk\\Studing1\\Защита информации\\Лабораторная работа 3\\RSAAlg\\RSAAlg\\RSAAlg.csproj",
+        "packagesPath": "C:\\Users\\ntapp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ntapp\\YandexDisk\\Studing1\\Защита информации\\Лабораторная работа 3\\RSAAlg\\RSAAlg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ntapp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\ntapp\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
